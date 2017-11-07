@@ -1,3 +1,27 @@
 body {
-  background: rgb(156, 187, 162)
+  background: rgb(156, 187, 162);
+  font-family: "Arial", "Helvetica", sans-serif;  
+}
+
+.container {
+  margin: auto;
+  text-align: center;
+}
+
+.preview {
+  width: 210px;
+  height: 140px;
+  margin: 0px 2px;
+}
+
+.gif {
+  width: 540px;
+  height: 360px;
+  padding: 20px;
+}
+
+.img-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap
 }

@@ -1,7 +1,7 @@
-# React Basic
-Barebones react project template. Does *not* include Redux, Router etc.
+# Gif Uploader
+Upload a images to render as gif-like animation with user defined frame rate.
 
-## Usage
-- `npm install` to get the dependencies
-- `npm start` Runs dev build with inline source map and webpack-dev-server on port 8080.
-- `npm run build` Runs production build with uglify, uglify source map, separate chunk for React, separate chunk for common code.
+## Setup
+- `npm install`
+- `npm start` Runs dev build with webpack-dev-server on port 8080.
+- `npm run build` Generates production build.
